@@ -55,4 +55,5 @@ Submit Login Form
     Wait Until Element Is Visible        xpath://button[@id='login-button']
     Scroll Element Into View    xpath://button[@id='login-button']
     Click Button    xpath://button[@id='login-button']
+    Close Browser
 
